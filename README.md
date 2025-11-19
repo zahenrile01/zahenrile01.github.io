@@ -34,26 +34,26 @@ Highlights how each fuel category has performed over time, revealing shifts in d
 
 Additionally, the dashboard includes interactive filters and Timeline for:
 
-**Timeline (Year):** Analyze trends and performance over specific years 
+**Timeline (Year)**: Analyze trends and performance over specific years 
 
-**Sales Classification:** Filter data by High or Low sales categories
+**Sales Classification**: Filter data by High or Low sales categories
 
-**Region:** Focus on performance in specific continents or markets
+**Region**: Focus on performance in specific continents or markets
 
-**Fuel Type:** Compare sales across powertrain categorie
+**Fuel Type**: Compare sales across powertrain categorie
 
 **Key findings:**
-**Regional Sales Performance:** Identified Asia as the top-performing market while revealing remarkably balanced global sales distribution across all six continents.
+**Regional Sales Performance**: Identified Asia as the top-performing market while revealing remarkably balanced global sales distribution across all six continents.
 
-**Fuel Type Evolution:** Showed Hybrid vehicles establishing consistent market leadership post-2020, with all fuel types remaining highly competitive in a transitional market.
+**Fuel Type Evolution**: Showed Hybrid vehicles establishing consistent market leadership post-2020, with all fuel types remaining highly competitive in a transitional market.
 
-**Pricing Strategy Consistency:** Revealed remarkably tight pricing bands across BMW's entire model portfolio, demonstrating standardized premium positioning without clear entry-level or flagship price tiers.
+**Pricing Strategy Consistency**: Revealed remarkably tight pricing bands across BMW's entire model portfolio, demonstrating standardized premium positioning without clear entry-level or flagship price tiers.
 
-**Sales Classification Patterns:** Highlighted Europe's slight advantage in High-value sales mix while showing consistent 70/30 Low-to-High sales ratios globally.
+**Sales Classification Patterns**: Highlighted Europe's slight advantage in High-value sales mix while showing consistent 70/30 Low-to-High sales ratios globally.
 
-**Temporal Sales Trends:** Identified 2022 as the peak sales year followed by 2023 market correction, while showing overall market stability across the 15-year period.
+**Temporal Sales Trends**: Identified 2022 as the peak sales year followed by 2023 market correction, while showing overall market stability across the 15-year period.
 
-**Market Diversification Strength:** Demonstrated well-distributed global footprint with no single region dominating sales, reducing market-specific risk.
+**Market Diversification Strength**: Demonstrated well-distributed global footprint with no single region dominating sales, reducing market-specific risk.
 
 This dashboard serves as a crucial tool for BMW's global management team, providing clear, actionable insights that drive informed decision-making for regional strategy, product development, and market positioning.
 

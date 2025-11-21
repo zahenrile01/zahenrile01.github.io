@@ -101,7 +101,7 @@ Additionally, the dashboard includes interactive Slicers and Timeline for:
 
 **Title:** [Video Games Sales](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/vgchartz-2024.xlsx)
 
-**Tools Used:** Microsoft Power BI(DAX, Visuals, conditional formating, filtering, sorting)
+**Tools Used:** Microsoft Power BI(DAX, Visuals, KPI, conditional formating, Slicers, filtering, sorting)
 
 **Project Description:**
 This project involved analyzing global video game sales data to uncover trends and performance patterns across top-selling titles and consoles. The dashboard provides a comprehensive view of sales distribution by genre, region, publisher, and platform over time. It is designed to help stakeholders understand market dynamics, identify platform strengths, and evaluate publisher impact across key regions. The dashboard includes the following features: 
@@ -141,4 +141,57 @@ This dashboard provides a clear view of how regions, publishers, consoles, and g
 
 **Dashboard Overview:**
 ![Games_Sales](Games_Sales.png)
+
+# Project 4
+
+**Title:** [Superstore Sales Analysis](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/Superstore.xls)
+
+**Tools Used:** Microsoft Power BI(Datamodelling, DAX, Visuals, Conditional formatting, Slicers, filtering, sorting)
+
+**Project Description:**
+
+This dashboard presents a comprehensive analysis of superstore sales performance across multiple dimensions from 2020 to 2023. It is designed to help stakeholders monitor key metrics and explore trends in sales, profit, and customer behavior. The dashboard includes the following features: 
+
+*Sales(KPI)*: Displays total sales value with previous year comparison and percentage change. 
+
+*Profit(KPI)*: Shows total profit with year-over-year comparison and percentage change. 
+
+*% Returned Orders(KPI)*: Indicates the proportion of returned orders with change from the previous year. 
+
+*Sales vs Previous Year Over Time*: Visual comparing current year sales with previous year sales across months from 2020 to 2023. 
+
+ *Profit by Product*:  Display profit values for individual products, highlighting both high and low performers. 
+
+ *Profit by State*: A filled map of the United States illustrating profit distribution by state using colour gradients. 
+
+ *Sales by Segment*: Highlights sales by customer segment: Consumer, Corporate, and Home Office. 
+
+ Additionally, the dashboard includes interactive slicers and filters for: 
+
+*Country/Region*: Enables geographic filtering. 
+
+*Customer Name*: Allows user-level analysis. 
+
+*Order Date*: Supports time-based filtering. 
+
+*Segment*: Filters data by customer segment. 
+
+**Key findings:**
+
+Despite a significant 47% sales increase to $2.33 million and a positive 2.95% reduction in returned orders, profitability remained stagnant due to severe margin compression, highlighting a critical disconnect between revenue growth and actual earnings. 
+
+*Regional Profitability*: Profit performance is heavily concentrated in states like California and New York, while several central and southern states show significant losses that weaken overall regional stability. 
+
+*Product Performance*: Technology drives most of the profit through high-margin Copiers and Phones, whereas Furniture remains a major loss area due to underperforming Tables and Bookcases. 
+
+*Sales Distribution by Segment*: The Consumer segment dominates total sales, with Corporate and Home Office contributing smaller but still meaningful portions. 
+
+*Top Selling States*: A small group of states, led by California, New York, and Washington, accounts for the highest sales volumes, while others remain substantially lower. 
+
+*Profit by Product*: Copiers deliver the strongest margins within Technology, while losses from Tables and Bookcases continue to drag down category-level profitability. 
+
+ This dashboard provides a clear and concise view of performance, helping decision makers quickly spot strengths, weaknesses, and opportunities across products, customers, and regions.
+
+**Dashboard Overview:**
+![SuperStore](SuperStore.png)
 

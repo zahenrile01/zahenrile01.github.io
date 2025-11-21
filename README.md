@@ -101,7 +101,7 @@ Additionally, the dashboard includes interactive Slicers and Timeline for:
 
 **Title:** [Video Games Sales](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/vgchartz-2024.xlsx)
 
-**Tools Used:** Microsoft Power BI(DAX, Visuals, formating, filtering, sorting)
+**Tools Used:** Microsoft Power BI(DAX, Visuals, conditional formating, filtering, sorting)
 
 **Project Description:**
 This project involved analyzing global video game sales data to uncover trends and performance patterns across top-selling titles and consoles. The dashboard provides a comprehensive view of sales distribution by genre, region, publisher, and platform over time. It is designed to help stakeholders understand market dynamics, identify platform strengths, and evaluate publisher impact across key regions. The dashboard includes the following features: 

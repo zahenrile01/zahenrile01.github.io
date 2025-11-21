@@ -58,26 +58,19 @@ This dashboard serves as a crucial tool for BMW's global management team, provid
 **Project Description:** 
 This project involved analysing consumer complaints submitted for Bank of America’s financial products and services between 2017 and 2023. It is designed to provide a clear overview of customer experience trends and operational responsiveness. This dashboard enables stakeholders to easily monitor complaint volumes, response performance, product level issues, and geographic patterns. The dashboard includes the following features: 
 
-*Consumer Complaints* (KPI):
-Displays the total number of complaints recorded across all years, providing a high level measure of overall customer dissatisfaction.
+*Consumer Complaints* (KPI): Displays the total number of complaints recorded across all years, providing a high level measure of overall customer dissatisfaction.
 
-*Timely Response* (KPI):
-Shows the percentage of complaints addressed within the required timeframe, giving insight into the bank’s operational efficiency and customer service performance.
+*Timely Response* (KPI): Shows the percentage of complaints addressed within the required timeframe, giving insight into the bank’s operational efficiency and customer service performance.
 
-*In Progress* (KPI):
-Highlights the number of complaints still open, helping stakeholders understand current workload and unresolved cases.
+*In Progress* (KPI): Highlights the number of complaints still open, helping stakeholders understand current workload and unresolved cases.
 
-*Complaints by Product*:
-Provides a breakdown of complaints submitted for each major financial product, helping identify which product areas receive the most attention from customers.
+*Complaints by Product*: Provides a breakdown of complaints submitted for each major financial product, helping identify which product areas receive the most attention from customers.
 
-*Complaints Over Time*:
-Shows how complaint volumes change year by year, making it easy to identify increases, decreases, and potential high impact periods.
+*Complaints Over Time*: Shows how complaint volumes change year by year, making it easy to identify increases, decreases, and potential high impact periods.
 
-*Complaints by Sub Product*:
-Gives a more detailed view of the specific services or account types that generate the most complaints within each product category.
+*Complaints by Sub Product*: Gives a more detailed view of the specific services or account types that generate the most complaints within each product category.
 
-*Complaints by States*:
-Displays how complaints vary across different US states, helping to highlight geographic regions with higher concentrations of customer issues.
+*Complaints by States*: Displays how complaints vary across different US states, helping to highlight geographic regions with higher concentrations of customer issues.
 
 Additionally, the dashboard includes interactive Slicers and Timeline for:
 
@@ -103,3 +96,49 @@ Additionally, the dashboard includes interactive Slicers and Timeline for:
 
 **Dashboard Overview:**
 ![Financial_Consumer_Complaints](Financial_Consumer_Complaints.png)
+
+# Project 3
+
+**Title:** [Video Games Sales](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/vgchartz-2024.xlsx)
+
+**Tools Used:** Microsoft Power BI(DAX, Visuals, formating, filtering, sorting)
+
+**Project Description:**
+This project involved analyzing global video game sales data to uncover trends and performance patterns across top-selling titles and consoles. The dashboard provides a comprehensive view of sales distribution by genre, region, publisher, and platform over time. It is designed to help stakeholders understand market dynamics, identify platform strengths, and evaluate publisher impact across key regions. The dashboard includes the following features: 
+
+*Total Sales by Genre and Region*: Breakdown of total sales across genres and regions, helping to show which types of games perform strongest in markets such as Japan, North America and Europe. 
+
+*Cumulative Sales by Console Over Time*: Highlights of cumulative sales for major consoles from 1980 to 2020.  
+
+*Top 10 Publishers Segmented by Region*: Ranks the top 10 publishers, segmented by regional sales (NA, EU, JP, etc.). 
+
+*Console vs Genre Specialisation*: Highlights genre specialisation across consoles.  
+
+Additionally, the dashboard includes interactive slicers and filters for: 
+
+*Year*: Analyse trends for a specific year or range of years. 
+
+*Publisher*: Publisher of the game.
+
+*Console*: Focus on the performance of a specific gaming platform. 
+
+*Genre*: Drill down into the performance of individual game genres. 
+
+**Key findings:** 
+
+Grand Theft Auto is the highest selling title globally while PS2 is the best selling console over the years.
+
+ *Regional Sales Patterns*: Most regions favour action, sports, and shooter titles, while Japan uniquely leans toward role-playing games and shows lower sales in several western-dominant genres. 
+
+*Publisher Market Distribution*: Major publishers like Activision and Electronic Arts, lead globally except in Japan, where domestic companies like Sony, Nintendo, etc, dominate, and North America remains the strongest consumer base. 
+
+*Console Market Evolution*: Sony led early console sales, faced strong competition mid-decade, then regained dominance with the PlayStation 4, while Nintendo continued to lead handheld gaming. 
+
+*Genre Performance Across Consoles*: The PlayStation 2 stands out as the most versatile console with strong sales across many genres, unlike other consoles that show more specialised genre strengths. 
+
+This dashboard provides a clear view of how regions, publishers, consoles, and genres interact in the global gaming market. These insights support more informed decisions in product strategy, game development, and regional market planning.
+
+
+**Dashboard Overview:**
+![Games_Sales](Games_Sales.png)
+

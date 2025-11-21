@@ -197,13 +197,83 @@ Despite a significant 47% sales increase to $2.33 million and a positive 2.95% r
 
 # Project 5 
 
-**Title:**
+**Title:** Employee Data
 
-**SQL Code:**
+**SQL Code:** [HR Database-SQL Code](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/Employee.SQL)
 
 **SQL Skills Used:**
 
+*Data Retrieval (SELECT)*: Queried and extracted specific information from the database, including individual columns, concatenated fields, and all columns with *.
+
+*Data Transformation (UPPER, LEFT, SUBSTRING, LTRIM, RTRIM, + operator)*: Manipulated and formatted data, such as converting text to uppercase, extracting substrings, trimming spaces, and combining columns.
+
+*Data Aggregation (COUNT)*: Calculated totals, such as the number of employees by department or gender, to summarize information.
+
+*Data Filtering (WHERE, BETWEEN, IN, NOT IN, LIKE, AND, OR)*: Applied conditions to select relevant records, including filtering by ranges, specific values, pattern matching, and excluding certain values.
+
+*Sorting (ORDER BY, DESC, ASC)*: Ordered query results based on one or more columns in ascending or descending order.
+
+*Limiting Records (TOP)*: Restricted query results to a specific number of rows for sampling or reporting.
+
+*Joining Tables (INNER JOIN, JOIN)*: Combined data from multiple tables using key relationships to retrieve related information.
+
+*Grouping Data (GROUP BY, ROLLUP)*: Summarized data by categories, such as grouping employees by gender or department, and optionally providing subtotals.
+
+*Creating Tables (SELECT INTO)*: Created new tables and copied data and structure from existing tables.
+
+*Date Functions (GETDATE())*: Retrieved the current date for time-based operations or reporting.
+
+*Conditional Expressions (BETWEEN, LIKE)*: Applied conditional logic to extract records that meet specific patterns or fall within a defined range.
+
+*Alias Usage (AS)*: Assigned alternative names to columns or expressions to make query results more readable.
+
+*Union (UNION ALL)*: Combined multiple result sets from different queries into a single output.
+
+*Deleting Records (DELETE with CTE)*: Removed specific rows from a table based on criteria defined in a Common Table Expression (CTE).
+
 **Project Description:**
+
+Below are the insights i want to retrieve:
+
+1) Uppercase first names with alias.
+
+2) Number of employees in HR.
+
+3) Current date.
+
+4) First four characters of last name.
+
+5) Place name from Address.
+
+6) Create new table with copied data.
+
+7) Employees with salary between 50k-100k – Identify mid-level salary range.
+
+8) Employees whose names begin with ‘S’.
+
+9) Top N records.
+
+10) FullName concatenation.
+
+11) Number of employees by gender in a DOB range.
+
+12) Order by last name descending, department ascending.
+
+13) Last name ending with ‘A’ and five letters.
+
+14) Exclude specific first names. 
+
+15) Employees in a specific address.
+
+16) Employees holding managerial position.
+
+17) Department-wise count sorted ascending.
+
+18) Male employees in HR. 
+
+19) Employees details with date of joining.
+
+20) Two minimum and maximum salaries detecting outliers.
 
 **Technology used:** SQL server
 

@@ -353,14 +353,71 @@ Below are the insights I want to retrieve:
 
 # Project 7
 
-**Title:**
+**Title:** Workplace Safety Data
 
-
-**SQL Code:**
+**SQL Code:** [Safety Database-SQL](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/Workplace.Safety.SQL)
 
 **SQL Skills Used:**
 
+*Data Retrieval (SELECT)*: Queried and extracted key fields such as plant, department, incident type, cost, shift, injury location, age group, gender, and monthly or yearly breakdowns.
+
+*Data Aggregation (SUM, COUNT, AVG, ROUND)*: Calculated totals like incident count, total cost, total days lost, and averages such as average incident cost or average days lost per incident type.
+
+*Data Filtering (WHERE, >, =, <>)*: Filtered data based on criteria such as report type (Lost Time, Near Miss), incident type (Crush and Pinch, Vehicle, Falling Object), age group, days lost, and cost thresholds.
+
+*Data Grouping (GROUP BY)*: Grouped results by plant, department, incident type, shift, month, year, injury location, age group, report type, and gender to summarize safety trends.
+
+*Sorting Results (ORDER BY ASC, DESC)*: Sorted data to find top incidents, highest cost incidents, peak months, departments with the most cases, and gender-based patterns.
+
+*Ranking (RANK() OVER)*: Used window functions to rank incident types based on total days lost or number of Crush and Pinch incidents.
+
+*Use of TOP for Prioritization (TOP 1, TOP 5)*: Retrieved the highest ranking results such as most affected age groups, most costly incident types, and months with the most incidents.
+
+*Join Preparation Skills (even though joins were not used here)*: Prepared datasets for deeper safety analytics by consistently grouping and aggregating attributes that support future join operations.
+
+*Use of DISTINCT*: Identified unique departments that experienced incidents exceeding certain thresholds such as days lost.
+
+*Common Table Expressions (CTE)*: Structured more complex logic by ranking departments based on specific incident categories using a CTE for cleaner and reusable logic.
+
 **Project Description:**
+
+1. Count incidents per plant to understand which locations have higher safety risks.
+
+2. Total incident cost per department to find out which departments are generating the highest financial impact from incidents.
+
+3. Incident type with highest days lost to identify which incident type causes the most downtime for the company.
+
+4. Distribution of incident types by shift to compare how incident types vary across shifts such as Morning, Afternoon, Night.
+
+5. Average incident cost by injury location to understand which body parts or locations lead to costlier incidents.
+
+6. Age group with the most incidents to see which age demographic is most frequently impacted by workplace incidents.
+
+7. Lost Time incidents per plant to identify which plants lose the most productive time due to incidents.
+
+8. Department with the most Crush and Pinch incidents to find which departments face the highest risk of this specific injury type.
+
+9. Plants with the most Near Miss incidents to monitor where potential dangers are occurring most, even when no injury happened.
+
+10. Number of incidents by year and month to analyse safety trends over time to detect high-risk months or years.
+
+11. Gender with the most reported incidents to check whether incident distribution is influenced by gender demographics.
+
+12. Total incident cost per year to see how annual safety-related expenses trend over time.
+
+13. Incident type with the highest cost to identify which type of incident is financially the most expensive for the company.
+
+14. Total cost by report type to compare cost differences between Lost Time, Medical Aid, Near Miss, Property Damage incidents.
+
+15. Departments with incidents involving more than two days lost to spotlight departments suffering more severe incidents based on days lost.
+
+16. Average days lost per incident type to determine which incident types create more long-term impact on productivity.
+
+17. Months with the highest number of incidents to identify peak incident months for seasonal safety planning.
+
+18. Total cost of Vehicle-related incidents to check how much vehicle-related safety issues are costing the company.
+
+19. Age group most affected by Falling Object incidents to identify which age group is most vulnerable to this specific hazard.
 
 **Technology used:** SQL server
 

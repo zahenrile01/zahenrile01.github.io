@@ -233,7 +233,7 @@ Despite a significant 47% sales increase to $2.33 million and a positive 2.95% r
 
 **Project Description:**
 
-Below are the insights i want to retrieve:
+Below are the insights I want to retrieve:
 
 1) Uppercase first names with alias.
 
@@ -274,6 +274,93 @@ Below are the insights i want to retrieve:
 19) Employees details with date of joining.
 
 20) Two minimum and maximum salaries detecting outliers.
+
+**Technology used:** SQL server
+
+# Project 6
+
+**Title:** Salesperson Commission Data
+
+**SQL Code:** [Salesperson Database-SQL](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/Salesman.SQL)
+
+**SQL Skills Used:**
+
+*Data Retrieval (SELECT)*: Selected columns and extracted specific fields from the tables to build detailed reports.
+
+*Table Joins (INNER JOIN, LEFT JOIN, CROSS JOIN)*: Combined related data from multiple tables such as customer info, order details, and salesperson details. Also performed Cartesian products for full pairing of rows.
+
+*Data Filtering (WHERE, BETWEEN, >, <, !=, IS NULL, IS NOT NULL)*: Applied filters on commissions, purchase amounts, grades, matching or non matching cities, and presence or absence of values.
+
+*Pattern and Conditional Logic (CASE)*: Added logic to classify orders as through salesperson or not, identify assigned or unassigned salespeople, or mark unknown customer details.
+
+*Data Sorting (ORDER BY ASC, DESC)*: Sorted results by customer ID, order date, salesman name, grade, and other fields for organized output.
+
+*Data Aggregation (COUNT)*: Counted customers assigned to each salesperson to generate summary reports.
+
+*Grouping (GROUP BY)*: Grouped salesperson data for counting how many customers each manages.
+
+*Data Transformation (COALESCE, Aliasing with AS)*: Replaced nulls with readable labels such as Unknown Name or Unknown City, and renamed columns to create clean, user friendly outputs.
+
+*Combining Records (CROSS JOIN)*: Generated Cartesian products for pairing every salesperson with every customer under certain rules.
+
+*Relational Insight Building (JOIN with multi conditions)*: Connected three way relationships (salesman, customer, orders) to uncover how sales flow through the organization.
+
+**Project Description:** 
+
+Below are the insights I want to retrieve:
+
+1. Match salespeople and customers living in the same city.
+
+2. Identify orders within a specific amount range.
+
+3. Show which salesperson represents which customer.
+
+4. Find salespeople earning high commissions.
+
+5. Find mismatched city relationships plus high commission earners.
+
+6. Retrieve full order details including customer and salesperson info.
+
+7. Join tables without duplicating column names.
+
+8. Display customer and salesperson details sorted by customer.
+
+9. Identify lower grade customers and their salespeople.
+
+10. Check which customers have placed orders.
+
+11. Show whether customers ordered through a salesperson or on their own.
+
+12. List salespeople who work with customers or have no customers yet.
+
+13. Combine salespeople, customers, and orders into a detailed report.
+
+14. Identify salespeople with customers who meet conditions (grade or order amount).
+
+15. Generate a report for customers who placed orders, including those missing from the list.
+
+16. Report customers with grades who placed orders, including exceptional cases.
+
+17. Produce a full combination of salespeople and customers.
+
+18. Cartesian product filtered by shared city.
+
+19. Cartesian product filtered by salesman city and customer grade requirement.
+
+20. Cartesian product where salespeople cannot match customers in the same city and customers must have a grade.
+
+**Technology used:** SQL server
+
+# Project 7
+
+**Title:**
+
+
+**SQL Code:**
+
+**SQL Skills Used:**
+
+**Project Description:**
 
 **Technology used:** SQL server
 

@@ -2,7 +2,7 @@
 
 **Title:** [BMW Global Sales Performance (2010–2024)](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/Bmw%20Sales4.xlsx)
 
-**Tools Used:** Microsoft Excel(Pivot Table, Pivot Chart, Slicers, KPI Cards, Timeline, Shapes&Formating, Conditional Formating)
+**Tools Used:** Microsoft Excel(Pivot Table, Pivot Chart, Slicers, Filtering and Sorting,  KPI Cards, Timeline, Shapes&Formating, Conditional Formating)
 
 **Project Description:** This project involved analysing BMW global sales data from 2010 to 2024 to identify trends in sales volume, pricing and performance across models, regions and fuel types. It is designed to provide a clear and interactive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and assess BMW’s market performance across different years, regions, and product segments.
 
@@ -53,7 +53,7 @@ This dashboard serves as a crucial tool for BMW's global management team, provid
 
 **Title:** [Consumer complaints on financial products & services for Bank of America from 2017 to 2023](https://github.com/zahenrile01/zahenrile01.github.io/blob/main/Consumer_Complaints4.xlsx)
 
-**Tools Used:**  Microsoft Excel(Pivot Table, Pivot Chart, Slicers, KPI Cards, Timeline, Shapes&Formating, grouping, Conditional Formating)
+**Tools Used:**  Microsoft Excel(Pivot Table, Pivot Chart, Slicers, Filtering and Sorting, KPI Cards, Timeline, Shapes&Formating, grouping, Conditional Formating)
 
 **Project Description:** 
 This project involved analysing consumer complaints submitted for Bank of America’s financial products and services between 2017 and 2023. It is designed to provide a clear overview of customer experience trends and operational responsiveness. This dashboard enables stakeholders to easily monitor complaint volumes, response performance, product level issues, and geographic patterns. The dashboard includes the following features: 
